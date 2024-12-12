@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SHeADOW.iml" filepath="$PROJECT_DIR$/SHeADOW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SHeADOW.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.iml" filepath="$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hiddencamera/SHeADOW.hiddencamera.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SHeADOW.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SHeADOW.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SHeADOW.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SHeADOW.test.iml" />
+    </modules>
+  </component>
+</project>
